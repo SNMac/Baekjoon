@@ -14,5 +14,5 @@ int main() {
     if (x == total)
         cout << "Yes" << endl;
     else
-        cout <<"No" << endl;
+        cout << "No" << endl;
 }
