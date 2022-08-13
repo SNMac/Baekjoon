@@ -31,8 +31,7 @@ int main() {
         if (sum > 9) {
             carry = true;
             c.push_back((sum - 10) + 48);
-        }
-        else
+        } else
             c.push_back(sum + 48);
     }
     if (carry)
