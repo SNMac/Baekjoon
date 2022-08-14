@@ -26,5 +26,4 @@ int main() {
         cout << min << endl;
     else
         cout << sum << '\n' << min << endl;
-
 }
