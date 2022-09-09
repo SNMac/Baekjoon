@@ -21,7 +21,6 @@ int main() {
             a.insert(input);
         else
             a.erase(input);
-
     }
     cout << a.size() << '\n';
 }
