@@ -22,4 +22,5 @@ int main() {
         cout << arr[p] << ' ';
     }
     cout << '\n';
+    delete[] arr;
 }
